@@ -93,11 +93,16 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbajeria&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Manish's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbajeria&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=mbajeria&theme=tokyonight&hide_border=true" alt="Manish's GitHub Streak Stats" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Public_Repositories-4-108880?style=for-the-badge&logo=github" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/Primary_Stack-Python_•_React_•_Cloud-blue?style=for-the-badge&logo=python" alt="Primary Stack" />
+  <img src="https://img.shields.io/badge/Status-Building_&_Shipping-brightgreen?style=for-the-badge&logo=git" alt="Status" />
 </p>
 
 ---
